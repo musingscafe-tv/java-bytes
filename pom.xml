@@ -6,9 +6,13 @@
 
   <groupId>com.musingscafe</groupId>
   <artifactId>java-bytes</artifactId>
-  <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>threads</module>
+    </modules>
 
-  <name>java-bytes</name>
+    <name>java-bytes</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
