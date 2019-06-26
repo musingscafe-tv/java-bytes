@@ -1,11 +1,9 @@
 package com.musingscafe;
 
+import com.musingscafe.threads.PooledPrinter;
+
 import java.util.concurrent.CountDownLatch;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) {

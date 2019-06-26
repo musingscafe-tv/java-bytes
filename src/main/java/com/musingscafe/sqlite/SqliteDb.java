@@ -1,4 +1,4 @@
-package com.musingscafe.examples.sqlite;
+package com.musingscafe.sqlite;
 
 import java.sql.*;
 import java.util.Objects;
