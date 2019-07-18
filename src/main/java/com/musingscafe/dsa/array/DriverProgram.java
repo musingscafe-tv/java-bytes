@@ -1,0 +1,12 @@
+package com.musingscafe.dsa.array;
+
+public class DriverProgram {
+    public static void main(String[] args) {
+        int[] arr = {1,2,3,4,5};
+
+        System.out.println(Algos.binarySearch(arr, 5));
+        System.out.println(Algos.binarySearch(arr, 1));
+        System.out.println(Algos.binarySearch(arr, 3));
+        System.out.println(Algos.binarySearch(arr, 6));
+    }
+}
